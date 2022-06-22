@@ -1,0 +1,6 @@
+altair
+pandas
+catboost
+numpy
+sklearn
+streamlit
